@@ -19,11 +19,12 @@ You may view the website by clicking [here](https://nikhilputhumana.github.io/ox
    The users needs to provide location permission and can view the hospitals available nearby the current location.
 3. Search by hospital name: <br />
    Users can directly search the hospitals using the hospital name.
+<br><br>
 
 ### ✨ Sample View
 <img src="./assets/screenshots/Screenshot.png" alt="Search by district view">
 
-Users can view the quantity of oxygen available in the hospital, distance of hospital from our current location, and the time when the quantity was last updated by the hospitals.
+Users can view the quantity of oxygen available in the hospital, distance of hospital from our current location, and the time when the quantity was last updated by the hospitals. <br><br>
 
 ### 🏥 Hospital details
 <img src="./assets/screenshots/Screenshot2.png" alt="hospital view">
